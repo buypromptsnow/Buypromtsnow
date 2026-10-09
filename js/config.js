@@ -1,7 +1,10 @@
-
+/* BuyPromptsNow storefront — Payhip product links connected.
+ * These are public product listing URLs, not API credentials.
+ * Never store private product downloads or secret keys here.
+ */
 window.PROMPTVAULT_CONFIG = {
-  brandName: "PromptVault",
-  supportEmail: "",
+  brandName: "Buy Prompts Now",
+  supportEmail: "", // Example: "support@yourdomain.com" (leave blank until ready)
   payhipLinks: {
     writing: "https://payhip.com/b/TViph",
     business: "https://payhip.com/b/MRPiH",
