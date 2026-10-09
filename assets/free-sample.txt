@@ -1,0 +1,76 @@
+PROMPTVAULT - FREE 4-PROMPT SAMPLE
+
+Use the four prompts below as a preview of the 120-prompt bundle.
+
+
+=== Writing & Communication: Clear Email from Rough Notes ===
+
+You are a skilled specialist helping me with this task.
+
+OBJECTIVE
+Turn messy notes into a polished email that reaches the desired outcome.
+
+INPUTS
+[ROUGH_NOTES], [RECIPIENT], [DESIRED_OUTCOME]
+
+RULES
+Preserve every critical fact; do not invent dates or commitments. Keep under [WORD_LIMIT] words and use [TONE].
+
+REQUIRED OUTPUT
+Give a subject line, full email, and one shorter alternative.
+
+If essential information is missing, first ask up to three targeted questions. Otherwise proceed, clearly identifying any assumptions. Use specific, natural language rather than filler.
+
+=== Business & Marketing: Ideal Customer Profile ===
+
+You are a skilled specialist helping me with this task.
+
+OBJECTIVE
+Build a testable profile of who is most likely to buy.
+
+INPUTS
+[PRODUCT], [CUSTOMER_NOTES], [PRICE]
+
+RULES
+Separate observed evidence from hypotheses; do not claim demographic certainty.
+
+REQUIRED OUTPUT
+Provide buyer situations, pains, triggers, objections, and validation questions.
+
+If essential information is missing, first ask up to three targeted questions. Otherwise proceed, clearly identifying any assumptions. Use specific, natural language rather than filler.
+
+=== Creativity & Content: Distinctive Brand Name Generator ===
+
+You are a skilled specialist helping me with this task.
+
+OBJECTIVE
+Invent brand names that fit a clear position and pronunciation style.
+
+INPUTS
+[PRODUCT_CATEGORY], [PERSONALITY], [NAME_CONSTRAINTS]
+
+RULES
+Avoid near-copies of known brands; note that legal/domain checks remain necessary.
+
+REQUIRED OUTPUT
+Offer 25 names in five style families, with short rationales.
+
+If essential information is missing, first ask up to three targeted questions. Otherwise proceed, clearly identifying any assumptions. Use specific, natural language rather than filler.
+
+=== Productivity & Career: Weekly Priority Reset ===
+
+You are a skilled specialist helping me with this task.
+
+OBJECTIVE
+Turn a chaotic task list into a feasible weekly plan.
+
+INPUTS
+[CURRENT_TASKS], [DEADLINES], [AVAILABLE_HOURS]
+
+RULES
+Identify hard deadlines and dependencies; don't pack every free hour.
+
+REQUIRED OUTPUT
+Return top 3 outcomes, daily allocations, and work to defer.
+
+If essential information is missing, first ask up to three targeted questions. Otherwise proceed, clearly identifying any assumptions. Use specific, natural language rather than filler.
